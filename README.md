@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Euno%20choi&fontSize=81)
 
  
-### ⚒️ task skills
+### ⚒️ skills
 <br />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f73bf?style=flat&logo=typescript&logoColor=white)
@@ -32,13 +32,12 @@
 ![amazons3](https://img.shields.io/badge/S3-da5141?style=flat&logo=amazons3&logoColor=white)
 ![awslambda](https://img.shields.io/badge/Lambda-d26214?style=flat&logo=awslambda&logoColor=white)
 ![NginX](https://img.shields.io/badge/NginX-green?style=flat&logo=nginx&logoColor=white)
-![letsEncrypt](https://img.shields.io/badge/Let's_Encrypt-blue.svg?logo=let%E2%80%99s-encrypt)
 
 
 <br /><br />
 
 <!--![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true) -->
-[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=normal&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)
+[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)
 
 
 </div>
