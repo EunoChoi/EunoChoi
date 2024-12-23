@@ -6,8 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Euno%20choi&fontSize=81)
 
-### About Me
-안녕하세요! 프론트엔드 개발자 최은오입니다. :)
+### 안녕하세요! 프론트엔드 개발자 최은오입니다. :)
 
 <br />
  
@@ -40,7 +39,7 @@
 
 <br />
 
-### ⚒️ Project
+### 🗂️ Project
 <img width="720" alt="main2" src="https://github.com/user-attachments/assets/b0584c8d-a51d-40a6-b3d3-7d1d4b1ba80b" />
 <img width="720" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
 
