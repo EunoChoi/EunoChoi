@@ -6,15 +6,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Euno%20choi&fontSize=81)
 
+### About Me
+안녕하세요! 프론트엔드 개발자 최은오입니다. :)
+
+<br />
  
-### ⚒️ skills
+### ⚒️ Tech Stack
 <br />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-2f73bf?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-5ed2f3?style=flat&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f73bf?style=flat&logo=typescript&logoColor=white)
 ![next](https://img.shields.io/badge/Next.js-black?style=flat&logo=React&logoColor=white)
 ![nextauth](https://img.shields.io/badge/NextAuth-B428E4?style=flat&logo=React&logoColor=white)
-![styledcomponent](https://img.shields.io/badge/styledcomponent-244bdd?style=flat&logo=css3&logoColor=white)
+![Styled-Component](https://img.shields.io/badge/styledComponents-244bdd?style=flat&logo=css3&logoColor=white)
+![mui](https://img.shields.io/badge/MUI-244bdd?style=flat&logo=mui&logoColor=white)
 
   
 ![nodedotjs](https://img.shields.io/badge/Node.js-ebd81b?style=flat&logo=nodedotjs&logoColor=white)
@@ -24,7 +29,7 @@
 
   
 ![reactquery](https://img.shields.io/badge/ReactQuery-f73e51?style=flat&logo=reactquery&logoColor=white)
-![local](https://img.shields.io/badge/LocalStorage-grey?style=flat&logo=&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-453837?style=flat&logo=&logoColor=white)
 
 
   
@@ -33,6 +38,13 @@
 ![awslambda](https://img.shields.io/badge/Lambda-d26214?style=flat&logo=awslambda&logoColor=white)
 ![NginX](https://img.shields.io/badge/NginX-green?style=flat&logo=nginx&logoColor=white)
 
+<br />
+
+### ⚒️ Project
+<img width="720" alt="main2" src="https://github.com/user-attachments/assets/b0584c8d-a51d-40a6-b3d3-7d1d4b1ba80b" />
+<img width="720" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
+
+<br />
 
 <br /><br />
 
