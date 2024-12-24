@@ -53,7 +53,7 @@
 
 [Web Page](https://everstamp.site/), 
 [Play Store](https://play.google.com/store/apps/details?id=com.everstamp&pcampaignid=web_share), 
-PWA(Progressive Web Apps), Dynamic UI 지원
+PWA, Dynamic UI 지원
 
 <br />
 
