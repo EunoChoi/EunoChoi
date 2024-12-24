@@ -40,36 +40,35 @@
 <br />
 
 ### 🗂️ Project
-<img width="720" alt="main2" src="https://github.com/user-attachments/assets/b0584c8d-a51d-40a6-b3d3-7d1d4b1ba80b" />
-<img width="720" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
 
 <br />
 
-<br /><br />
+<img width="640" alt="main2" src="https://github.com/user-attachments/assets/b0584c8d-a51d-40a6-b3d3-7d1d4b1ba80b" />
+
+#### 에버스탬프 - 습관 관리와 감정일기를 한번에
+
+[Web Page](https://everstamp.site/), 
+[Play Store](https://play.google.com/store/apps/details?id=com.everstamp&pcampaignid=web_share), 
+PWA(Progressive Web Apps), Dynamic UI 지원
+
+<br />
+
+<img width="640" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
+
+#### 굿락갓락 - 갤럭시 감성 더하기 커뮤니티
+
+[Web Page](https://glgl.site), Dynamic UI 지원
+
+<br />
+
+<br />
+
+---
+
+<br />
 
 <!--![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true) -->
 [![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)
 
 
 </div>
-
-
-
-
-<!--
-## Hi there 👋
-
-
-**EunoChoi/EunoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
