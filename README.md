@@ -71,8 +71,8 @@ PWA, Dynamic UI 지원
 
 <br />
 
-<!--![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true) -->
-[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)
+[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true&hide_border=true)
+
 
 
 </div>
