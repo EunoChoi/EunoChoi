@@ -4,9 +4,10 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Euno%20choi&fontSize=81)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=FE,%20Euno%20choi&fontSize=72)
 
-### 안녕하세요! 프론트엔드 개발자 최은오입니다. :)
+👋🏻 안녕하세요. 반갑습니다!<br />
+'서비스'와 '사용자' 사이 '단단한 징검다리'가 되고싶은 프론트엔드 개발자 최은오입니다. :)
 
 <br />
  
@@ -18,7 +19,6 @@
 ![next](https://img.shields.io/badge/Next.js-black?style=flat&logo=React&logoColor=white)
 ![nextauth](https://img.shields.io/badge/NextAuth-B428E4?style=flat&logo=React&logoColor=white)
 ![Styled-Component](https://img.shields.io/badge/styledComponents-244bdd?style=flat&logo=css3&logoColor=white)
-![mui](https://img.shields.io/badge/MUI-244bdd?style=flat&logo=mui&logoColor=white)
 
   
 ![nodedotjs](https://img.shields.io/badge/Node.js-ebd81b?style=flat&logo=nodedotjs&logoColor=white)
