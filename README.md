@@ -6,7 +6,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=FE,%20Euno%20choi&fontSize=72)
 
-👋🏻 안녕하세요. 반갑습니다!<br />
+
+
+### 👋🏻 About Me
+
+안녕하세요. 반갑습니다!<br />
 '서비스'와 '사용자' 사이 '단단한 징검다리'가 되고싶은 개발자 최은오입니다. :)
 
 <br />
