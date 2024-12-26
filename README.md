@@ -47,13 +47,13 @@
 
 <br />
 
-<img width="640" alt="main2" src="https://github.com/user-attachments/assets/b0584c8d-a51d-40a6-b3d3-7d1d4b1ba80b" />
+<img width="640" alt="main2" src="https://github.com/user-attachments/assets/0313cfa7-2453-4e32-b8d0-6fcecd77f587" />
 
-#### 에버스탬프 - 습관 관리와 감정일기를 한번에
+#### 에버스탬프 - 감정일기와 습관 만들기를 한 번에
 
 [Web Page](https://everstamp.site/), 
 [Play Store](https://play.google.com/store/apps/details?id=com.everstamp&pcampaignid=web_share), 
-PWA, Dynamic UI 지원
+PWA, 반응형 UI 지원
 
 <br />
 
@@ -61,7 +61,7 @@ PWA, Dynamic UI 지원
 
 #### 굿락갓락 - 갤럭시 감성 더하기 커뮤니티
 
-[Web Page](https://glgl.site), Dynamic UI 지원
+[Web Page](https://glgl.site), 반응형 UI 지원
 
 <br />
 
