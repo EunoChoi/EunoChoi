@@ -47,7 +47,7 @@
 
 <br />
 
-<img width="640" alt="main2" src="https://github.com/user-attachments/assets/0313cfa7-2453-4e32-b8d0-6fcecd77f587" />
+<img width="720" alt="main2" src="https://github.com/user-attachments/assets/0313cfa7-2453-4e32-b8d0-6fcecd77f587" />
 
 #### 에버스탬프 - 감정일기와 습관 만들기를 한 번에
 
@@ -57,7 +57,7 @@ PWA, 반응형 UI 지원
 
 <br />
 
-<img width="640" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
+<img width="720" alt="glglmain" src="https://github.com/user-attachments/assets/0ad04659-fecc-4272-b627-b7e2e726a9aa">
 
 #### 굿락갓락 - 갤럭시 감성 더하기 커뮤니티
 
@@ -71,7 +71,9 @@ PWA, 반응형 UI 지원
 
 <br />
 
-[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true&hide_border=true)
+[![EunoChoi](https://github-readme-stats.vercel.app/api/top-langs/?username=EunoChoi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/EunoChoi)
+
+<!-- ![EunoChoi](https://github-readme-stats.vercel.app/api?username=EunoChoi&show_icons=true&hide_border=true) -->
 
 
 
